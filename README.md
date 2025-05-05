@@ -2,4 +2,4 @@
 
 このプロジェクトは、Python の標準ライブラリのみを使用した簡単な **ターン制戦争シミュレーション** ゲームです。  
 赤チームと青チームが自動でマップ上を移動し、敵チームを排除しながら戦います。
-![{76244C6B-61F0-4910-8D26-AD6EF7755D6D}](https://github.com/user-attachments/assets/473da2c9-8566-43f2-8c78-50f5beb09ab2)
+![{D7F4CEA4-4BA4-46EE-AB58-C2F2CD58C408}](https://github.com/user-attachments/assets/fa0a9136-c8b0-4bee-af58-8135daa5a608)
